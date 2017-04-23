@@ -1,4 +1,4 @@
-# WhatsTheMatter
+# What's the Matter?
 Ludum Dare 38
 
 What's the matter is a simple game of making elements, you can create elements higher on the periodic table with two simple methods.
