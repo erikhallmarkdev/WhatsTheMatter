@@ -6,3 +6,5 @@ What's the matter is a simple game of making elements, you can create elements h
 1. Capture electrons by moving a nucleus near it
 
 2. Fuse elements together by colliding one element into another.
+
+**There's some really messy code here, I'm sorry for that.**
